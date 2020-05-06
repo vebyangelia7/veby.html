@@ -1,0 +1,226 @@
+body {
+    margin: 0;
+    background-color: 	#F0FFF0;
+}
+.atas img {
+    background-color:  #008080;
+    padding: 3px;
+    border-radius: 50%;
+    float: left;
+    width: 70px;
+    height: 70px;
+}
+.atas ul {
+    font-size: 20;
+    font-family: Helvetica;
+    list-style-type: none;
+    margin: 0;
+    padding: 20px;
+    overflow: hidden;
+    background-color: #008080;
+}
+.atas li {
+    float: right;
+}
+.atas li a {
+    font-family:Helvetica;
+    font-weight: normal;
+    display: block;
+    color: 	white;
+    text-align: center;
+    padding: 14px 16px;
+   
+}
+
+/* masuk bagian profil */
+.profil {
+    padding: 0;
+    padding-top: 0;
+    position: relative;
+    margin-top: 30;
+    text-align: center;
+    background-color: #F0FFF0;
+}
+.profil h1 {
+    font-family: Kristen ITC;
+    font-weight: bolder;
+    font-size: 80px;
+    margin: 0 auto;
+    color: 	#2F4F4F; 
+}
+.profil h2 {
+    font-family: Engravers MT;
+    font-weight: bold;
+    font-size: 25px;
+    margin: 0 auto;
+    color: #2F4F4F;
+}
+.develep {
+    margin-top: 80px;
+    width: 600px;
+    height: 400px;
+}
+.aku {
+    font-weight: bold;
+    line-height: 2;
+    text-align: center;
+    margin-top: 30px;
+}
+
+
+    
+.aku img {
+    background-color: #2F4F4F;
+    padding: 5px;
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+    margin: 80px;
+    
+    
+}
+.aku h2 {
+    font-family: 'Anonymous Pro', monospace;
+    margin: 0;
+    font-size: 30px;
+    font-weight: bolder;
+    color: #2F4F4F;
+}
+.aku p {
+    font-family: Helvetica;
+    width: 50%;
+    margin: 0 auto;
+    color: #2F4F4F;
+}
+
+/* bagian bawah profil diri */
+.riwayatpendidikan {
+    font-weight: bold;
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+.riwayatpendidikan h1 {
+    font-family: 'Megrim', cursive;
+    font-weight: bolder;
+    font-size: 50px;
+    color: #2F4F4F;
+}
+.riwayatpendidikan h4 {
+    font-family: Optima;
+    font-size: 30px;
+    margin-top: 100px;
+    margin-bottom: 0;
+    color: #2F4F4F;
+}
+.riwayatpendidikan img {
+    background-color: #2F4F4F;
+    padding: 5px;
+    border-radius: 50%;
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+}
+.riwayatpendidikan h4 {
+    margin: 60px 0 0 0;
+    color: #2F4F4F;
+}
+.riwayatpendidikan p {
+    font-family: Helvetica;
+    margin: 20px 0 0 0;
+    color: #2F4F4F;
+}
+/* masuk ke sub */
+.pendidikan {
+    font-family: 'Anonymous Pro', monospace;
+    text-align: left;
+    margin: 70px auto;
+}
+.pendidikan img {
+    background-color: #2F4F4F;
+    border-radius: 50%;
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    margin-right: 50px;
+    float: left;
+}
+ .organisasi {
+    text-align: left;
+    margin: 30px auto;
+}
+.organisasi img {
+    background-color: #2F4F4F;
+    border-radius: 50%;
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    margin-right: 50px;
+    float: right;
+}
+.organisasi h4{
+	font-family: Optima;
+    font-size: 30px;
+    margin-top: 80px;
+    margin-bottom: 0;
+    color: #2F4F4F;
+}
+.organisasi p{
+	font-family: Helvetica;
+    margin: 20px 0 0 0;
+    color: #2F4F4F;
+}
+.kompetensi {
+    text-align: left;
+    margin: 130px auto;
+}
+.kompetensi img {
+    background-color: #2F4F4F;
+    border-radius: 50%;
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    margin-right: 50px;
+    float: left;
+   
+}
+
+.kompetensi h4{
+	font-family: Optima;
+    font-size: 30px;
+    margin-top: 140px;
+    margin-bottom: 0;
+    color: #2F4F4F;
+}
+.kompetensi p{
+	font-family: Helvetica;
+    margin: 20px 0 0 0;
+    color: #2F4F4F;
+}
+footer {
+    text-align: center;
+    background-color: 	#008080;
+    padding: 30px;
+}
+footer a{
+    text-decoration: none;
+}
+
+.bawah {
+    margin-bottom: 15px;
+}
+.bawah a {
+    font-family: Helvetica;
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+    margin: 8px 5px;
+}
+
+.link a {
+    font-family: Helvetica;
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+    margin: 8px 10px;
+}
